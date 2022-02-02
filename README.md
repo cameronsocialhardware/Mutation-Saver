@@ -1,2 +1,2 @@
 # Mutation-Saver
-Automatically save your SOL Parasite mutations
+Automatically save SOL Parasite mutations to your local machine using urllib module in Python 3.
